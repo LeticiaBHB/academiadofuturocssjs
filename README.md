@@ -1,5 +1,5 @@
 # academiadofuturocssjs
-utilizei css, html e js
+css, html e js
 
 
 | Website Image |
